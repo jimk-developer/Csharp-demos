@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+  </Configurations>
+  <Project Path="Demo1_RainfallConsole/Demo1.csproj" />
+  <Project Path="Demo2_RainfallWinForms/Demo2.csproj" />
+  <Project Path="Demo3_KioskConsole/Demo3.csproj" />
+  <Project Path="Demo4_KioskWinForms/Demo4.csproj" />
+  <Project Path="Demo5_PunctuationWinForms/Demo5.csproj" />
+  <Project Path="Demo6_SeatingChartConsole/Demo6.csproj" />
+</Solution>
