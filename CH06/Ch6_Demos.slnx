@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Demos/">
+    <Project Path="DEMO1_ShipQuote/DEMO1.csproj" />
+    <Project Path="DEMO2_KayakRental/DEMO2.csproj" />
+    <Project Path="DEMO3_BookNook/DEMO3.csproj" />
+    <Project Path="DEMO4_PlantFinder/DEMO4.csproj" />
+    <Project Path="DEMO5_PhoneMask/DEMO5.csproj" />
+  </Folder>
+</Solution>
