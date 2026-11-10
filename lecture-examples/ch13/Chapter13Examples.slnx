@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Example01_EventBasics/Example01_EventBasics.csproj" />
+  <Project Path="Example02_Delegates/Example02_Delegates.csproj" />
+  <Project Path="Example03_CustomEvent/Example03_CustomEvent.csproj" />
+  <Project Path="Example04_MouseEvents/Example04_MouseEvents.csproj" />
+  <Project Path="Example05_KeyboardEvents/Example05_KeyboardEvents.csproj" />
+  <Project Path="Example06_MultipleControls/Example06_MultipleControls.csproj" />
+</Solution>
